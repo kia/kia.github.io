@@ -10,7 +10,7 @@ share: true
 
 Java 8 is realy cool!
 
-The folowing code parses a query string like "color=red&size=M&name=jdk8" and puts its key values into s hashmap.
+The folowing code parses a query string like "color=red&size=M&name=jdk8" and puts its key values into a hashmap.
 
 {% highlight java %}
     public QueryString(String q) {
