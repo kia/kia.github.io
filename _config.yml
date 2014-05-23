@@ -3,7 +3,7 @@ description:      Note, Thoughts, .
 logo:             site-logo.png
 disqus_shortname:
 search:           true
-url:              //localhost:4000
+url:              //kia.github.io
 
 owner:
   name:           Kia
