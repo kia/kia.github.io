@@ -1,16 +1,16 @@
 ---
 layout: post
-title: StreamAPI Java 8
-description: "Stream API in Java 8"
+title: Example use of stream API in Java 8
+description: "Example use of stream API in Java 8"
 category: articles
-tags: [StreamAPI, Java8, urlparameter]
+tags: [streamAPI, Java8, urlparameter, lambda expression]
 comments: true
 share: true
 ---
 
 Java 8 is realy cool!
 
-the folowing code parses a query string like "color=red&size=M&name=jdk8" and puts into s hashmap.
+The folowing code parses a query string like "color=red&size=M&name=jdk8" and puts its key values into s hashmap.
 
 {% highlight java %}
     public QueryString(String q) {
