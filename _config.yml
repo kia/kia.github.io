@@ -1,5 +1,5 @@
 title:            Kia Loading ...
-description:      Note, Thoughts, .
+description:      Notes, Thoughts, .
 logo:             site-logo.png
 disqus_shortname:
 search:           true
@@ -9,7 +9,7 @@ owner:
   name:           Kia
   avatar:         kia.jpg
   email:          kiadevel@gmail.com
-  twitter:	  '@kiamuss'
+  twitter:	  'kiamuss'
   github:	  kia
 
 links:
